@@ -1,87 +1,66 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<p align="center">I'm Fatma Alzhra Ahmed, an AI Engineer and Data Scientist from Egypt 🇪🇬</p>
+<h2 align="left">Hi 👋! My name is Fatma Alzhra Ahmed and I'm an AI Engineer & Data Scientist from Egypt 🇪🇬</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=colab" height="60" alt="colab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatma-ahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatma-ahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">✨ About Me</h3>
-
-<p align="center">
-🧠 Specializing in AI, NLP, and Computer Vision<br>
-👩‍🏫 AI Instructor at 3C Online Coding School<br>
-🏆 DEPI AI Track Finalist - Top 5 AI Projects in Egypt<br>
-🎯 Passionate about building AI solutions for education and healthcare<br>
-📚 Currently exploring Agentic AI, Hugging Face, and Grad-CAM
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<h3 align="center">🛠️ Tools I Use</h3>
-
-<p align="center">
-  🧪 ML Platforms: Google Colab, Azure Notebooks, Kaggle Kernels<br>
-  🧠 AI/ML Frameworks: TensorFlow, PyTorch, scikit-learn, Keras<br>
-  📊 Data: Pandas, NumPy, Matplotlib, Seaborn<br>
-  🗂️ Version Control: Git & GitHub<br>
-  📦 Deployment: Streamlit, Flask, MLflow<br>
-  📍 Other: JupyterLab, VSCode, Linux, Hugging Face
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=colab" height="30" alt="colab logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo" />
+</div>
 
 ###
 
-<h3 align="center">🚀 Some Projects I've Worked On</h3>
+<h3>🚀 Projects I've Worked On</h3>
 
 <ul>
-  <li><strong>🫁 Chest X-Ray Disease Classifier</strong> – Multi-class CNN using VGG19 with Grad-CAM to classify Pneumonia, COVID-19, Tuberculosis, and more.</li>
-  <li><strong>🧠 NLP Legal QA</strong> – Working on fine-tuning a legal NLP QA model with multi-format document ingestion (PDF, Excel, WhatsApp).</li>
-  <li><strong>📚 AI for Education</strong> – Simplified ML topics into tasks for children, including Titanic survival predictions and emoji classifiers.</li>
-
+  <li><strong>🫁 Chest X-Ray Classifier</strong> – Deep learning model (VGG19 + Grad-CAM) classifying 6 types of lung diseases.</li>
+  <li><strong>🔢 Regression Models</strong> – Salary & Temperature prediction using RandomForest & Linear Regression.</li>
+  <li><strong>👁️‍🗨️ ESP32 Smart Object Detection</strong> – Real-time object detection + audio output for the visually impaired.</li>
+  <li><strong>🎓 ML for Kids</strong> – Interactive ML tasks like emoji classification and Titanic survival predictions for school students.</li>
+  <li><strong>⚖️ Legal NLP Assistant</strong> – Fine-tuning a legal QA model on PDFs, Excel, and WhatsApp data with Hugging Face.</li>
 </ul>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:fatmaelzhra.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/fatma-ahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fatma-ahmed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=fatma-ahmed&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fatma-ahmed/fatma-ahmed/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatma-ahmed/fatma-ahmed/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatma-ahmed/fatma-ahmed/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fatma-ahmed/fatma-ahmed/output/pacman-contribution-graph.svg">
-</picture>
