@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=colab" height="40" alt="colab logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Colaboratory_SVG_Logo.svg" height="40" alt="colab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
@@ -62,8 +62,8 @@
 
 <ul>
    <li><strong>🧠 NLP Legal QA</strong> – Working on fine-tuning a legal NLP QA model with multi-format document ingestion.</li>
-  <li><strong>🫁 Chest X-Ray Classifier</strong>: CNN (VGG19 + Grad-CAM) classifying COVID-19, Pneumonia, TB, and more</li>
-  <li><strong>📚 AI for Education</strong> – Simplified ML topics into tasks for children, including Titanic survival predictions and emoji classifiers.</li>
+  <li><strong> 🧠 Chest X-Ray Classifier</strong>: CNN (VGG19 + Grad-CAM) classifying COVID-19, Pneumonia, TB, and more</li>
+  <li><strong> 📚 AI for Education</strong> – Simplified ML topics into tasks for children, including Titanic survival predictions and emoji classifiers.</li>
 </ul>
 
 ###
@@ -76,10 +76,10 @@
   <a href="https://www.linkedin.com/in/fatma-elzhraa-ahmed-9a3b9a232/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
-  <a href="mailto:fatmaelzhra.dev@gmail.com">
+  <a href="mailto:fatmaalzhraahmed837@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
-  <a href="https://github.com/fatma-ahmed" target="_blank">
+  <a href="https://github.com/fatma2123456" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
 </p>
