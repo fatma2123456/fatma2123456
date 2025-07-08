@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Colaboratory_SVG_Logo.svg" height="40" alt="colab logo" />
+  <img src="https://github.com/serengil/deepface/assets/3181402/2c1fc3e7-1848-4ddf-a82d-b50c3b8a7f9f" height="40" alt="colab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
